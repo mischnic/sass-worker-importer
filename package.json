@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"scripts": {
+		"start": "parcel index.html --no-source-maps"
+	},
+	"dependencies": {
+		"sass": "^1.17.2"
+	}
+}
